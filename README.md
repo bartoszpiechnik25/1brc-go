@@ -12,4 +12,4 @@ All of the test were done on my personal computer with the following specs:
 
 Approach | Execution Time | Difference | Commit Hash
 --- | --- | --- | ---
-Naive approach. Simply read the file line by line, add to hash map and collect cities names, in the end build result string and output it to the file | 3m17,392s | - | -
+Naive approach. Simply read the file line by line, add to hash map and collect cities names, in the end build result string and output it to the file | 3m17,392s | - | [64ad8b3](https://github.com/bartoszpiechnik25/1brc-go/tree/64ad8b383196c49aff967171f4ac2e51017e1531)
